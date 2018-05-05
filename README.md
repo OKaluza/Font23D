@@ -1,3 +1,5 @@
+**Modified version to export font vertices to binary data for use in LavaVu. Thanks to the original author for releasing the code!**
+
 # Font23D
 Font23D is a C++ library for creating a 3d mesh of any Text in the given True type font.
 
